@@ -77,6 +77,7 @@ In most colleges, event information is scattered across WhatsApp groups, posters
 
 ## 📁 Project Structure
 
+```
 EventHUB/
 │
 ├── eventmanagement/
@@ -97,6 +98,7 @@ EventHUB/
 │
 ├── README.md
 └── .gitignore
+```
 
 ---
 
@@ -125,7 +127,7 @@ EventHUB/
 - Project Duration: 3 Weeks
 - Type: Academic Mini / Capstone Project
 
-Team Members
+  Team Members
 
 - Member 1 – Developer
   Name: Balagam Risha Raj
@@ -144,18 +146,18 @@ Team Members
 ### 📅 Development Roadmap
 
 
-** Week 1 **
+**Week 1**
 - Project setup
 - Architecture implementation
 - Home & Event Details UI
 - Local database setup
 
-** Week 2 **
+**Week 2**
 - Event filtering & search
 - Offline caching
 - Bookmark functionality
 
-** Week 3 **
+**Week 3**
 - UI polishing
 - Bug fixes
 - Final testing & submission
