@@ -78,21 +78,25 @@ In most colleges, event information is scattered across WhatsApp groups, posters
 ## 📁 Project Structure
 
 EventHUB/
+│
 ├── eventmanagement/
-│ └── app/
-│ ├── src/main/java/com/eventhub/
-│ │ ├── data/
-│ │ ├── ui/
-│ │ ├── viewmodel/
-│ │ └── MainActivity.kt
-│ └── src/main/res/
+│   └── app/
+│       ├── src/
+│       │   ├── main/
+│       │   │   ├── java/com/eventhub/
+│       │   │   │   ├── data/
+│       │   │   │   ├── ui/
+│       │   │   │   ├── viewmodel/
+│       │   │   │   └── MainActivity.kt
+│       │   │   └── res/
+│       │   └── AndroidManifest.xml
+│       └── build.gradle.kts
 │
 ├── docs/
-│ └── project documentation
+│   └── project_documentation.md
 │
 ├── README.md
 └── .gitignore
-
 
 ---
 
@@ -115,51 +119,55 @@ EventHUB/
 
 4. Run the app on an emulator or physical device
 ---
-###🧑‍💻 Development Team
+### 🧑‍💻Development Team
 
--Team Size: 3
--Project Duration: 3 Weeks
--Type: Academic Mini / Capstone Project
+- Team Size: 3
+- Project Duration: 3 Weeks
+- Type: Academic Mini / Capstone Project
 
 Team Members
 
--Member 1 – Developer
-Name: Balagam Risha Raj
-GitHub: https://github.com/balagamrisha
+- Member 1 – Developer
+  Name: Balagam Risha Raj
+  GitHub: https://github.com/balagamrisha
 
--Member 2 – Developer
-Name: Sanjana Upputuri
-GitHub: https://github.com/sanjanaupputuri
+- Member 2 – Developer
+  Name: Sanjana Upputuri
+  GitHub: https://github.com/sanjanaupputuri
 
--Member 3 – Developer
-Name: Sameeksha
-GitHub: https://github.com/SameekshaB656
+- Member 3 – Developer
+  Name: Sameeksha
+  GitHub: https://github.com/SameekshaB656
 
 ---
 
 ### 📅 Development Roadmap
 
 
-Week 1
--Project setup
--Architecture implementation
--Home & Event Details UI
--Local database setup
+** Week 1 **
+- Project setup
+- Architecture implementation
+- Home & Event Details UI
+- Local database setup
 
-Week 2
--Event filtering & search
--Offline caching
--Bookmark functionality
+** Week 2 **
+- Event filtering & search
+- Offline caching
+- Bookmark functionality
 
-Week 3
--UI polishing
--Bug fixes
--Final testing & submission
+** Week 3 **
+- UI polishing
+- Bug fixes
+- Final testing & submission
+
 ---
-###📄 License
+
+### 📄 License
 
 This project is developed for academic purposes only.
 
 All rights reserved to the development team.
+
 ---
-⭐ EventHUB – Built by students, for students
+
+** ⭐ EventHUB – Built by students, for students **
